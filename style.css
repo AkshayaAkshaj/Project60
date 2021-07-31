@@ -1,0 +1,114 @@
+body{
+    text-align: center
+    }
+
+h1{
+ font-size: 40px;   
+}
+
+#welcome {
+    padding: 70px;
+    text-align: center:
+}
+
+h1 {
+
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+    color: #6A1B9A;
+
+}
+
+h2 {
+    font-size: 20px;
+    color: #003487;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 42;
+    background-image: linear-gradient(#ff0040,#bf00ff,#00ffff);
+    
+}
+p{
+    color: aliceblue;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.menu a {
+    color: black !important;
+}
+
+
+
+.link {
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover {
+    background-color: deeppink;
+    font-size: 20px;
+}
+
+#My work a {
+    font-size: :30px;
+
+}
+
+#paint {
+    text-align: center;
+    background-image: linear-gradient(#00ffbf,#00ff80,#40ff00,#ffff00)
+}
+
+#image1,
+#image2,
+#image3,
+#image4,
+#image5 {
+    height: 300px;
+    width: 400px;
+}
+
+
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transition: transform 0.9;
+
+}
+.links{ 
+    
+    font-size:50px;
+}
+#image6{
+    height: 200px;
+    width: 200px;
+    border-radius: 500px;
+}
